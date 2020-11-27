@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Hindeline69\Hindeline69\bin\Debug\netcoreapp3.1\Hindeline69.exe
+C:\Users\opilane\source\repos\Hindeline69\Hindeline69\bin\Debug\netcoreapp3.1\Hindeline69.deps.json
+C:\Users\opilane\source\repos\Hindeline69\Hindeline69\bin\Debug\netcoreapp3.1\Hindeline69.runtimeconfig.json
+C:\Users\opilane\source\repos\Hindeline69\Hindeline69\bin\Debug\netcoreapp3.1\Hindeline69.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Hindeline69\Hindeline69\bin\Debug\netcoreapp3.1\Hindeline69.dll
+C:\Users\opilane\source\repos\Hindeline69\Hindeline69\bin\Debug\netcoreapp3.1\Hindeline69.pdb
+C:\Users\opilane\source\repos\Hindeline69\Hindeline69\obj\Debug\netcoreapp3.1\Hindeline69.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Hindeline69\Hindeline69\obj\Debug\netcoreapp3.1\Hindeline69.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Hindeline69\Hindeline69\obj\Debug\netcoreapp3.1\Hindeline69.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Hindeline69\Hindeline69\obj\Debug\netcoreapp3.1\Hindeline69.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Hindeline69\Hindeline69\obj\Debug\netcoreapp3.1\Hindeline69.dll
+C:\Users\opilane\source\repos\Hindeline69\Hindeline69\obj\Debug\netcoreapp3.1\Hindeline69.pdb
+C:\Users\opilane\source\repos\Hindeline69\Hindeline69\obj\Debug\netcoreapp3.1\Hindeline69.genruntimeconfig.cache
